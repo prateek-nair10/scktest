@@ -3,7 +3,7 @@ import select
 
 HEADER_LENGTH = 10
 
-IP = "127.0.0.1"
+IP = "192.168.100.12"
 #IP = "host"
 #IP = external_ip
 #IP = "public IP"
